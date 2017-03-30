@@ -45,6 +45,7 @@ Now let toggle the visibility of the ul list when the h1 is clicked.
 Let's open the counter.html file. We have a nice looking counter but it doesn't do anything yet.
 
 _content about adding counter functionality_
+
 _content about addind and removing styling with set timeout_
  
 
