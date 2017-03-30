@@ -30,6 +30,3 @@ We can use the [JQuery Documentation](http://api.jquery.com/) to help us find th
 
 ### Release 3: Bonuses!
 
-* Implement a score display.
-* Implement starting a new game.
-* Implement storing the game in LocalStorage so that it still shows up if you close the tab.
