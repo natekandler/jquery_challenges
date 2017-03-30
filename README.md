@@ -48,7 +48,7 @@ _content about adding counter functionality_
 
 _content about addind and removing styling with set timeout_
  
- ![counter gif](/../jquery_challenges/blob/master/counter.gif?raw=true "Optional Title")
+ ![counter gif](/../master/counter.gif?raw=true "Optional Title")
 
 ### Release 3: Count by numbers other than one
 Now let's make our counter increment by five. What updates do we need to make to our code to facilitate that change?
