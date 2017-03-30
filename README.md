@@ -19,7 +19,7 @@ We can use the [JQuery Documentation](http://api.jquery.com/) to help us find th
 
 ## Releases
 
-### Release 0: Learn to travers the DOM
+### Release 0: Traversing and manipulating the DOM
 The DOM refers to document object model. This is the representation of the document (a webpage) as a tree structure that we navigate through.
 
 Open up the traverse.html file and use JQuery to access the following elements.
