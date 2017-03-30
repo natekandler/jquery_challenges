@@ -22,12 +22,13 @@ We can use the [JQuery Documentation](http://api.jquery.com/) to help us find th
 ### Release 0: Traversing and manipulating the DOM
 The DOM refers to document object model. This is the representation of the document (a webpage) as a tree structure that we navigate through.
 
-Open up the traverse.html file and use JQuery to access the following elements.
+Open up the traverse.html file and use JQuery to access, change, or add the following elements.
 
 - return the content of the h1 tag
 - update the last name to be "Eich" with a capital E
 - return all of the list items
-- ???
+- add another div that has all of the elements of "person_1" but your information
+- ??? need to add some other things to do
 
 
 ### Release 1: Event Binding
