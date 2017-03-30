@@ -1,4 +1,4 @@
-# Let's Learn JQuery!
+# JQuery part one: It's all about the DOM
 
 ## Learning Competencies
 
