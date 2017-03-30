@@ -51,9 +51,19 @@ There's a gif of the functioning counter below. Don't worry about the styling wh
  ![counter gif](/../master/counter.gif?raw=true "Optional Title")
 
 ### Release 3: Add some style
-Now let's make our counter increment by five. What updates do we need to make to our code to facilitate that change?
-_content about addind and removing styling with set timeout_
+Ok, let's make it fancy! We've already added a stylesheet with the CSS needed to create the change effect. We just need to add the JavaScript to add and remove the classes associated with the styles. 
+
+When either of the buttons is clicked we want to add the class "changing" to the element that's wrapping the number. 
+
+Great! We're halfway there. This just leaves us with a number that's red an slightly larger. We still need to remove that class to revert the number to it's original style
+
+Removing the class is a little bit tricky. We don't want that code to execute immediately so we're going to use the JavaScript's setTimeout function to wait 200 milliseconds before removing the class. The documentation for setTimeout can be found [here](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
+
 ### Release 4: Add multiple counters
 What if we wanted to add multiple counters? Will this cause issues with the way our code is currently set up?
 
-Let's add a second counter that increments by 10. Does everything behave as we'd expect?
+Let's add a second counter that increments by 5 and another that increments by 10. Does everything behave as we'd expect?
+What changes need to be made to make these counters function?
+
+### Release 5: Bonus!
+Refactoring is the process of restructuring existing code without changing its external behavior. Can we refactor any of our code to make it more succinct without changing the way it works?
