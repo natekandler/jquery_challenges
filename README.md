@@ -42,10 +42,13 @@ Let's add a click handler that displays an alert with a list item's text when cl
 Now let toggle the visibility of the ul list when the h1 is clicked.
 
 ### Release 2: Make a functioning counter
-
+Let's open the counter.html file. We have a nice looking counter but it doesn't do anything yet.
  
 
 ### Release 3: Count by numbers other than one
+Now let's make our counter increment by five. What updates do we need to make to our code to facilitate that change?
 
 ### Release 4: Add multiple counters
+What if we wanted to add multiple counters? Will this cause issues with the way our code is currently set up?
 
+Let's add a second counter that increments by 10. Does everything behave as we'd expect?
