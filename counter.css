@@ -24,6 +24,9 @@
 .counter button:active {
     transform: scale(0.95);
 }
+.counter-wrapper {
+  text-align: center;
+}
 #result {
     width:100%;
     text-align:center;
