@@ -37,6 +37,9 @@ The JQuery "on" function gives us a friendly syntax to bind to events. Here's th
 
 A list of events can be found [here](https://developer.mozilla.org/en-US/docs/Web/Events)
 
+Let's add a click handler that displays an alert with a list item's text when clicked.
+
+Now let toggle the visibility of the ul list when the h1 is clicked.
 
 ### Release 2: Make a functioning counter
 
