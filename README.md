@@ -44,15 +44,15 @@ Now let toggle the visibility of the ul list when the h1 is clicked.
 ### Release 2: Make a functioning counter
 Let's open the counter.html file. We have a nice looking counter but it doesn't do anything yet.
 
-_content about adding counter functionality_
+What do we need to do to add functionality to this markup? We'll start with selecting the elements on the page that we want to increment. In this case that will be the buttons. Then we'll need to add some code that will increment or decrement the text based on which button is clicked.
 
-_content about addind and removing styling with set timeout_
+There's a gif of the functioning counter below. Don't worry about the styling when the number is changing for now, we'll get to that in the next release!
  
  ![counter gif](/../master/counter.gif?raw=true "Optional Title")
 
-### Release 3: Count by numbers other than one
+### Release 3: Add some style
 Now let's make our counter increment by five. What updates do we need to make to our code to facilitate that change?
-
+_content about addind and removing styling with set timeout_
 ### Release 4: Add multiple counters
 What if we wanted to add multiple counters? Will this cause issues with the way our code is currently set up?
 
